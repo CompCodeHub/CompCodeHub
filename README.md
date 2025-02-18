@@ -1,3 +1,5 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4ZGhtdWIzMnZ4dDNmNGN6anJ6OWhlYjY0ODU2ZDh1ZThyOHZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="GitHub Banner" width="100%" />
+
 <h1>Hi 👋, I'm Suyash, a Full Stack Engineer</h1>
 <p>I’m a passionate Full Stack Engineer with expertise in MERN Stack, Next.js, Java, Spring Boot, Microservices, REST APIs, and AWS. With a strong foundation in DevOps and Cloud technologies, I love building scalable, high-performance applications and architecting efficient cloud solutions.</p>
 <h2>🚀 Languages and Tools I Use</h2>
